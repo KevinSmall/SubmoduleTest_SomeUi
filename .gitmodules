@@ -1,0 +1,3 @@
+[submodule "SubmoduleTest_BuyerWallet"]
+	path = SubmoduleTest_BuyerWallet
+	url = https://github.com/KevinSmall/SubmoduleTest_BuyerWallet.git
